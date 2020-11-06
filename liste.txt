@@ -1,6 +1,6 @@
 legumes
 avocat
-navets
+navtes
 
 fruits
 orange
